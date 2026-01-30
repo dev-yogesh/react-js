@@ -14,8 +14,8 @@ export default defineConfig({
     },
 
     manifest: {
-      name: 'PWA React+',
-      short_name: 'PWA React+',
+      name: 'PWA React',
+      short_name: 'PWA React',
       description: 'A PWA App by React',
       theme_color: '#ffffff',
     },
